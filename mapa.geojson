@@ -1,0 +1,75 @@
+
+{
+  "type": "FeatureCollection",
+  "name": "Destinos Geología",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aachen (Alemania)",
+        "plazas": "2 plazas de 6 meses",
+        "estudios": "Grado y Máster",
+        "coordinadora": "Dra. María Pilar Lapuente Mercadal",
+        "idioma": "B2 alemán o B2 inglés",
+        "informacion_adicional": [
+          {
+            "titulo": "Visados y permisos",
+            "url": "https://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Die-RWTH-heisst-Sie-willkommen/Welcome-Center-fuer-Internationale-Forsc/Vor-der-Einreise/~bjpk/Visum-und-Aufenthaltserlaubnis/lidx/1/"
+          },
+          {
+            "titulo": "Alojamiento",
+            "url": "https://www.rwth-aachen.de/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.066556, 50.78038]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bonn (Alemania)",
+        "plazas": "2 plazas de 6 meses",
+        "estudios": "Grado y Máster",
+        "coordinadora": "Dra. María Pilar Lapuente Mercadal",
+        "idioma": "B1 alemán o B1 inglés",
+        "informacion_adicional": [
+          {
+            "titulo": "Universidad de Bonn",
+            "url": "https://www.uni-bonn.de/"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [7.088439, 50.72691]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Darmstadt (Alemania)",
+        "plazas": "2 plazas de 10 meses",
+        "estudios": "4º curso de Grado en Geología y Máster",
+        "coordinadora": "Dra. Blanca Bauluz Lázaro",
+        "idioma": "B2 inglés",
+        "informacion_adicional": [
+          {
+            "titulo": "Exchange students",
+            "url": "https://www.tu-darmstadt.de/international/inbound/exchange/erasmus_in/index.en.jsp"
+          },
+          {
+            "titulo": "Información adicional",
+            "url": "https://www.tu-darmstadt.de/international/inbound/exchange/erasmus_in/details_56845.en.jsp"
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.635596, 49.869709]
+      }
+    }
+  ]
+}
