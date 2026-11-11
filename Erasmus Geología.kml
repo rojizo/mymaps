@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Erasmus Geología </name>
+    <description>Destinos Erasmus+ del Grado de Geología de la Facultad de Ciencias de la Universidad de Zaragoza</description>
+    <Style id="icon-168-normal">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-168-highlight">
+      <IconStyle>
+        <scale>1.1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/168-ylw-pushpin.png</href>
+        </Icon>
+        <hotSpot x="10" xunits="pixels" y="31" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1.1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-168">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-168-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-168-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Destinos Geología</name>
+      <Placemark>
+        <name>Aachen (Alemania)</name>
+        <description><![CDATA[2 plazas de 6 meses<br>Estudios: Grado y Máster<br>Coordinadora: Dra. María Pilar Lapuente Mercadal.<br>Nivel de Idioma: Obligatorio B2 alemán o B2 inglés.<br>Información Adicional:<br>Granding system:<br>1 -1,3 Sehr gut very good A / B<br>1,7-2,3 Gut good C<br>2,7-3,3 Befriedigend satisfactory D<br>3,7 - 4,0 Ausreichend sufficient E<br>5,0 Mangelhaft failed F / FX<br>http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Die-RWTH-heisst-Sie-willkommen/Welcome-Center-fuer-Internationale-Forsc/Vor-der-Einreise/~bjpk/Visum-und-Aufenthaltserlaubnis/lidx/1/<br>http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Die-RWTH-heisst-Sie-willkommen/Welcome-Center-fuer-Internationale-Forsc/Vor-der-Einreise/~bpgb/Versicherungen/lidx/1/<br>http://www.rwth-aachen.de/cms/root/Forschung/Angebote-fuer-Forschende/Die-RWTH-heisst-Sie-willkommen/Welcome-Center-fuer-Internationale-Forsc/Vor-der-Einreise/~bpbw/Wohnen/?lidx=1]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            6.066556,50.78038,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bonn (Alemania)</name>
+        <description><![CDATA[2 plazas de 6 meses<br>Estudios: Grado y Máster<br>Coordinadora: Dra. María Pilar Lapuente Mercadal.<br>Nivel de Idioma: Obligatorio B1 alemán o B1 inglés.<br>Información Adicional:<br>Granding system:<br>1 -1,3 Sehr gut very good A / B<br>1,7-2,3 Gut good C<br>2,7-3,3 Befriedigend satisfactory D<br>3,7 - 4,0 Ausreichend sufficient E<br>5,0 Mangelhaft failed F / FX<br>https://www.uni-bonn.de/]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            7.088439,50.72691,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Darmstadt (Alemania)</name>
+        <description><![CDATA[2 plazas de 10 meses.<br>Estudios: Alumnos 4º curso de Grado en Geología y Máster.<br><br>Coordinadora: Dra. Blanca Bauluz Lázaro<br>Nivel de Idioma: Obligatorio B2 inglés <br><br>Información Adicional<br>https://www.tu-darmstadt.de/international/inbound/exchange/erasmus_in/index.en.jsp<br>https://www.tu-darmstadt.de/international/inbound/exchange/erasmus_in/details_56845.en.jsp<br>https://www.tu-darmstadt.de/international/inbound/exchange/erasmus_in/details_77632.en.jsp<br>https://www.tu-darmstadt.de/international/inbound/exchange/erasmus_in/details_77376.en.jsp<br>Grading System:<br>1,0-1,3 Sehr Gut - Very Good<br>1,7-2,3 Gut - Good<br>2,7-3,3 Befriedigen - Satisfactory<br>3,7-4,0 Ausreichend - Sufficient<br>5,0 Mangelhaft - Failed]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            8.635596,49.869709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tübingen (Alemania)</name>
+        <description><![CDATA[2 plazas de 10 meses.<br>Estudios:  Grado  y Máster.<br><br>Coordinadora: Dra. María Pilar Lafuente Mercadal<br>Nivel de Idioma: Obligatorio B1 alemán; B2 inglés<br><br>Información Adicional<br>http://www.uni-tuebingen.de/en.html<br><br>Grading System:<br>1,0-1,3 Sehr Gut - Very Good<br>1,7-2,3 Gut - Good<br>2,7-3,3 Befriedigen - Satisfactory<br>3,7-4,0 Ausreichend - Sufficient<br>5,0 Mangelhaft - Failed]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            9.059375,48.526228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gante (Bélgica)</name>
+        <description><![CDATA[1 plaza de 6 meses.<br>Estudios: Máster<br>Coordinador: Dr. Antonio Casas Sáinz.<br>Requisitos de Idioma: Obligatorio<br>TOEFL 550( Paper-B ) ; 213 (Computer-B) ; 79-80 (Internet-B)<br>First Certificate in English (FCE) Nivel B2<br>ILTS Minimum Score 6.0<br>Información Adicional:<br>http://www.ugent.be/en/education/coursecatalogue<br>www.UGent.be/en/facilities/housing]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            3.71089,51.011865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zagreb (Croacia)</name>
+        <description><![CDATA[2 plazas de 5 meses <br>Estudios: Grado<br>1 Plaza de 5 meses.<br>Estudios: Máster<br><br>Coordinadora: Dra. Concepción Arenas Abad<br>Nivel de Idioma: Obligatorio B2 inglés<br><br>Información Adicional:<br>http://www.unizg.hr/homepage/international-exchange/exchange-students/before-coming-to-zagreb/<br>http://www.unizg.hr/homepage/study-at-the-university-of-zagreb/academic-information/the-ects-system-and-student-progress-assessment/]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            15.971072,45.811568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Savoie, Chamberi (Francia)</name>
+        <description><![CDATA[4 plazas de 10 meses.<br>Estudios: Alumnos 3º y 4º Grado (no TFG)  y Máster.<br>Coordinadora: Dra. Mª Teresa Román Berdiel.<br>Requisitos de Idioma: <br>French – B2 level is required to attend classes in French<br>If the student has B1 level when applying, he/she needs to attend the integration week as well as the French course during the semester<br>Información Adicional:<br>https://www.univ-smb.fr/fileadmin/Dri/UDS_grading_system/UDS_grading-system.pdf<br>Incoming.students@univ-smb.fr]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            5.916819,45.567104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grenoble (Francia)</name>
+        <description><![CDATA[4 plazas de 10 meses (compartido con Grado en Fisica).<br>Estudios: Alumnos 4º curso Grado y Máster<br>Coordinador: Dra. Blanca Bauluz Lázaro.<br>Requisitos de Idioma: Recomendado B1 francés; B2 inglés<br><br>Información Adicional:<br>http://www.ujf-grenoble.fr/formation/diplomes/<br>http://www.ujf-grenoble.fr/medias/fichier/welcomeguide-2013-2014-english_1370349557576.pdf<br>Grading System<br>18-20= very uncommon. Brilliant and exceptional results<br>16-18=outstanding performance first rate results<br>14-16=very good to excellent results<br>12-14=Good to very good results//10-12=Passing to satisfactory/ <10=Fail, further work required]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            5.762358,45.19287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pau (Francia)</name>
+        <description><![CDATA[2 plazas de 9 meses<br>Estudios: Grado y Máster.<br>Coordinador: Dr. Antonio Casas Sáinz.<br>Nivel de Idioma: aceptado B1 francés, recomendado B2 francés<br><br>Información Adicional<br>http://ri.univ-pau.fr/live/course_catalogue<br>http://ri.univ-pau.fr/live/practical_information/visa_residence_permit<br>http://ri.univ-pau.fr/live/digitalAssets/121/121704_Guide_International.pdf<br>http://ri.univ-pau.fr/live/practical_information/insurance<br>http://ri.univ-pau.fr/live/exchange_programmes/erasmus/accommodation<br>http://ri.univ-pau.fr/live/validation_mobility]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -0.365542,43.3145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toulouse (Francia)</name>
+        <description><![CDATA[3 plazas de 10 meses.<br>Estudios: Grado y Máster.<br>Coordinadora: Dra. Mª Teresa Román Berdiel.<br>Requisitos de Idioma: Obligatorio B2 francés<br><br>Información Adicional:<br>http://www.univ-tlse3.fr<br>www.ups-tlse.fr<br>http://www.techdeco.fr/life-at-toulouse-university-469.html<br>http://www.univ-tlse3.fr/32889062/0/fiche___pagelibre/&RH=rub02]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            1.469421,43.561051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bari (Italia)</name>
+        <description><![CDATA[2 plaza de 10 meses.<br>Estudios: Grado.<br>1 plaza de 6 meses.<br>Estudios: Máster y Doctorado<br>Coordinador: Dr. Aranzazu Luzón Aguado.<br>Requisitos de Idioma: Recomendado B1 italiano<br><br>Información Adicional:<br>http://www.uniba.it<br>http:/www.uniba.it/relint<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>www.consulesaragon.org [1] ]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            16.868402,41.12056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cagliari (Italia)</name>
+        <description><![CDATA[3 plazas de 9 meses.<br>Estudios: Grado, Máster y Doctorado.<br>Coordinadora: Dra. Teresa Román Berdiel.<br>Requisitos de Idioma: Recomendado B1 italiano; B1 inglés<br><br>Información Adicional:<br>http://www.unica.it/pub/english/<br>http://www.unica.it/pub/english/index.jsp?is=23&iso=380)<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>www.consulesaragon.org [1] ]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            9.111198,39.228306,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Camerino (Italia)</name>
+        <description><![CDATA[4 plazas de 6 meses.<br>Estudio: Grado, Máster y Doctorado<br>Coordinador: Dr. Antonio Casas Sáinz<br>Requisitos de Idioma: Recomendado B1 Italiano<br><br>Información Adicional:<br>http://international.unicam.it/<br>http://international.unicam.it/grades<br>http://d7.unicam.it/international/news/erasmus-study-2016-17<br>http:// www.ersucam.it<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>www.consulesaragon.org [1] ]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            13.06695,43.141031,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ferrara (Italia)</name>
+        <description><![CDATA[2 plazas de 10 meses<br>Estudios Grado<br>1 plazas de 6 meses<br>Estudios Máster<br>Coordinadora: Dra. Gloria Desir Valen.<br>Nivel de Idioma Recomendado B1 Italiano<br><br>Información Adicional<br>http://www.unife.it/studenti/internazionale<br>www.unife.it/mobilita-internazionale<br>www.unife.it/mobilita-internazionale/studiare-a-ferrara/alloggi-a-ferrara-accomodation-suppliers<br>http://www.unife.it/ateneo/uffici/staff-direttore-amministrativo/ufficio-legale/assicurazione<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>www.consulesaragon.org [1] ]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            11.62596,44.833527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Florencia (Italia)</name>
+        <description><![CDATA[2 plazas de 6 meses.<br>Estudios: Grado, Máster y Doctorado.<br>Coordinadora: Dra. Arantzazu Luzón Aguado.<br>Nivel de Idioma: Obligatorio B1 italiano si la docencia es en italiano o B2 Ingles si es inglés.<br><br>Información Adicional:<br>https://www.unifi.it/vp-11247-studenti-internazionali.html<br>https://www.unifi.it/vp-8712-corsi-di-laurea.html<br>https://www.unifi.it/index.php?module=CMpro&func=viewpage&pageid=10340&newlang=eng<br><br>Grading System:<br>The grading system ranges from 0 to 30, with 18 as passing grade. A "cum laude" may be added to the highest grade (30) as a mention of special distinction.<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>www.consulesaragon.org [1] ]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            11.253433,43.78101,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Modena (Italia)</name>
+        <description><![CDATA[1 plaza de 9 meses<br>Estudios Grado, Máster y Doctorado<br>Coordinador: Dr. Francisco Gutierrez Santolalla.<br>Nivel de Idioma Recomendado B1 Italiano<br><br>Información Adicional<br>http://www.unimore.it/international/ects.html<br>http://www.international.unimore.it/incomingstudents.html<br>http://www.international.unimore.it/Visas.html<br>http://www.direzionelegale.unimore.it/site/home/assicurazioni.html<br>http://www.unimore.it/servizistudenti/alloggiEN.html<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>www.consulesaragon.org [1] ]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            10.92409,44.646826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pavia (Italia)</name>
+        <description><![CDATA[2 plazas de 6 meses.<br>Estudios: Grado, Máster y Doctorado<br>Coordinador: Dra. Blanca Bauluz Lázaro.<br>Nivel de Idioma: Recomendado B1 italiano; B1 inglés<br><br>Información Adicional:<br>http://www.unipv.eu/site/home.html<br>http://www.unipv.eu/site/en/home/international-relations/erasmus/incoming-students/before-the-arrival.html<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>www.consulesaragon.org [1] ]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            9.143715,45.200909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Perugia (Italia)</name>
+        <description><![CDATA[2 plazas de 10 meses.<br>Estudios: Grado<br>1 plaza de 6 meses<br>Estudios: Máster y Doctorado<br>Coordinadora: Dra. Concepción Arenas Abad.<br>Nivel de Idioma Recomendado B1 Italiano<br><br>Información Adicional<br>http://www.unipg.it/en/ects-guide<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>Siguiendo la recomendación que nos ha hecho el Vice-Cónsul de Italia en Zaragoza, os pedimos que informéis a los estudiantes con destino Erasmus en Italia de lo siguiente:<br><br>La normativa para los contratos de alquiler de pisos ha cambiado recientemente en Italia, las personas interesadas en firmar un contrato de alquiler tienen que estar en posesión de un código fiscal para realizar el contrato, para este trámite pueden dirigirse al Vice-Cónsul de Italia en Zaragoza via correo electrónico, quien le facilitará la información sobre este tema.<br><br>A continuación los datos de contacto<br><br>Massimo Marchetti<br>Vice Console Onorario d'Italia di Saragozza<br><br>Paseo Independencia 24-26, 2º, oficina 12, 50004 Saragozza, Spagna<br>T + 34 976 228 659<br><br>saragozza.onorario@esteri.it<br><br>www.consulesaragon.org [1] <br><br>www.consulesaragon.org [1] ]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            12.3873,43.116366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Torun (Polonia)</name>
+        <description><![CDATA[2 plazas de 10 meses.<br>Estudios: Grado .<br>Coordinadora: Dra. Blanca Bauluz Lázaro.<br>Requisitos de Idioma: Recomendado B1 inglés<br><br>Información Adicional:<br>https://www.umk.pl/en/]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            18.571285,53.022565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Braga (Portugal)</name>
+        <description><![CDATA[2 plazas de 3 meses.<br>Estudios: Grado y Máster.<br>Coordinador: Dra. Arantzazu Luzón Aguado.<br>Requisitos de Idioma: Recomendado B1 portugués; B2 inglés<br><br>Información Adicional:<br>www.uminho.pt<br>http://www.sri.uminho.pt/Default.aspx?tabid=4&pageid=88&lang=eng<br>http://www.sri.uminho.pt/ECTS_EN><br>Practical Information<br>http://www.sri.uminho.pt/In>]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -8.396709,41.560635,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lisboa (Portugal)</name>
+        <description><![CDATA[2 plazas de 9 meses. Estudios Grado y Máster.<br>Coordinador: Dr. Antonio Casas Sáinz.<br>Nivel de Idioma Obligatorio A2 portugués; B1 inglés<br>Información Adicional<br>http://www.fct.unl.pt/en/student/student-orientation-and-mobility/students-mobility-study-sms<br>http://www.fct.unl.pt/sites/default/files/erasmus incoming/EU_Scale_FCT.pdf<br>http://www.fct.unl.pt/en/student/student-orientation-and-mobility/information-incoming-students-and-other-visitors<br>http://www.fct.unl.pt/sites/default/files/documentos/estudante/informacao_academica/Seguro%20Escolar/Generali_apoliceSegAlunos_013.pdf<br>http://www.fct.unl.pt/en/student/student-orientation-and-mobility/students-mobility-study-sms]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -9.20311,38.654416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oporto (Portugal)</name>
+        <description><![CDATA[2 plazas de 9 meses. Estudios: Grado (4º curso).<br>1 plaza de 6 meses. Estudios: Máster.<br>Coordinador: Dra. Arantxa Luzón Aguado.<br>Requisitos de Idioma: Recomendado B1 portugués, B1 inglés<br><br>Información Adicional:<br>www.up.pt<br>Local Grades awarded on a scale of 0-20 (pass mark 10)<br>18 to 20 Excellent<br>16 and 17 Very good<br>14 and 15 Good<br>10 to 13 Sufficient<br>0 to 9 Fail]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -8.636784,41.151863,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Vila-Real (Portugal)</name>
+        <description><![CDATA[2 plazas de 9 meses.<br>Estudios: Grado y Máster.<br>Coordinadora: Dra. Blanca Bauluz Lázaro.<br>Requisitos de Idioma: Recomendado B1 portugués<br><br>Información Adicional:<br>http://www.utad.pt/vPT/Area2/OutrasUnidades/GabineteRelacoesInternacionaisMobilidade/foreign_students/Paginas/foreign-students.aspx<br>http://www.utad.pt/vPT/Area2/OutrasUnidades/GabineteRelacoesInternacionaisMobilidade/guiaects/Documents/GeneralInformationForStudents.pdf<br>In the portuguese grading system, the results are represented on a scale of 0 to 20, minimun required for approval is 10. 17 to 20 - Excellent, 15 to 16- Very good, 14- Good, 11 to 13- Satisfactory, 10 - Adequate, 00 to 09 - Fail.]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            -7.74107,41.289077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praga (Republica Checa)</name>
+        <description><![CDATA[2 plazas de 5 meses.<br>Estudios: Alumnos 4º curso de Grado en Geología, Máster y Doctorado.<br><br>Coordinadora: Dra. Mª Pilar Lapuente Mercadal<br>Nivel de Idioma: Obligatorio B2 inglés<br><br>Información Adicional<br>http://www.cuni.cz/UK-2047.html<br>http://www.cuni.cz/UK-5381.html<br>http://www.cuni.cz/UK-2073.html <br>http://www.cuni.cz/UK-2045.html]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            14.423107,50.087072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bucarest (Rumanía)</name>
+        <description><![CDATA[2 plaza de 9 meses Estudios de Grado<br>1 plaza de 6 meses Estudios de Máster <br>Coordinador: Dr. Francisco Gutierrez Santolalla.<br>Nivel de Idioma Obligatorio B2 Ingles<br><br>Información Adicional<br>https://unibuc.ro/admitere-2019-hailaub/<br>https://unibuc.ro/?lang=en]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            26.100726,44.435726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ankara (Turquía)</name>
+        <description><![CDATA[2 plazas de 9 meses<br>Estudios Grado<br>1 plazas de 6 meses<br>Estudios Máster <br>Coordinador: Dr. Francisco Gutierrez Santolalla.<br>Nivel de Idioma Recomendado B1 Inglés<br><br>Información Adicional<br>http://erasmus.ankara.edu.tr <br>http://erasmus.en.ankara.edu.tr/incoming-students/ects-guide<br>http://erasmus.en.ankara.edu.tr/incoming-students/housing/<br>http://erasmus.en.ankara.edu.tr/incoming-students/residence-permit/<br>http://erasmus.en.ankara.edu.tr/incoming-students/social-security/]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            32.862511,39.93294,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pamukkale (Turquía)</name>
+        <description><![CDATA[2 plazas de 5 meses.<br>Estudios: Grado<br><br>Coordinadora: Dra. Concepción Arenas Abad.<br>Nivel de Idioma Recomendado B1 Inglés<br><br>Información Adicional<br>http://www.pau.edu.tr/uluslararasi/en<br>https://ebs.pau.edu.tr/BilgiGoster/sayfa.aspx?lng=2&pi=42F0C0F9-F96D-4A94-A062-38FE8851C859<br>http://www.pau.edu.tr/uluslararasi/tr<br>http://www.konsoloskuk.gov.tr/tr/en/start.aspx]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            29.103198,37.740956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tallinn (Estonia)</name>
+        <description><![CDATA[2 plazas de 5 meses.<br>Se comienza 1º Biotecnología, 2º Física, 3º Geología y 4º Química. Las vacantes pasan a la siguiente titulación<br><br> (Compartido Física, Geología y Química)<br>Estudios: Grado y Máster.<br>Coordinadora: Dra. Arantxa Luzón Aguado<br>Requisitos de Idioma: Obligatorio B2 inglés]]></description>
+        <styleUrl>#icon-168</styleUrl>
+        <Point>
+          <coordinates>
+            24.671351,59.395851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
